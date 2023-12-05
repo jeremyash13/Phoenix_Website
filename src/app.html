@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="/images/favicon.png" />
+		<link rel="stylesheet" href="/css/styles.css" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<script src="/scripts/site-redirect.js"></script>
+
+		<!-- update the version number as needed -->
+		<!-- <script defer src="/__/firebase/10.3.1/firebase-app-compat.js"></script>
+		<script defer src="/__/firebase/10.3.1/firebase-analytics-compat.js"></script>
+		<script defer src="/__/firebase/10.3.1/firebase-performance-compat.js"></script> -->
+		<!-- 
+			  initialize the SDK after all desired features are loaded, set useEmulator to false
+			  to avoid connecting the SDK to running emulators.
+			-->
+		<!-- <script defer src="/__/firebase/init.js?useEmulator=false"></script> -->
+
+		<script type="module">
+			// Import the functions you need from the SDKs you need
+			import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.5.0/firebase-app.js';
+			import { getAnalytics } from 'https://www.gstatic.com/firebasejs/10.5.0/firebase-analytics.js';
+			const firebaseConfig = {
+				apiKey: 'AIzaSyAdkEPvjSHlRJ94O7paVsdN7e1_H1ljw2Q',
+				authDomain: 'phoenix-74ffa.firebaseapp.com',
+				projectId: 'phoenix-74ffa',
+				storageBucket: 'phoenix-74ffa.appspot.com',
+				messagingSenderId: '69340478404',
+				appId: '1:69340478404:web:90d457ab136c9be6f50291',
+				measurementId: 'G-YBH4EEXJDR'
+			};
+
+			// Initialize Firebase
+			const app = initializeApp(firebaseConfig);
+			const analytics = getAnalytics(app);
+		</script>
+
+		%sveltekit.head%
+
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-YBH4EEXJDR"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag() {
+				dataLayer.push(arguments);
+			}
+			gtag('js', new Date());
+
+			gtag('config', 'G-YBH4EEXJDR');
+		</script>
+	</head>
+
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents">%sveltekit.body%</div>
+	</body>
+</html>

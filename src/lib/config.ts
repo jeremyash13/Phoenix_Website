@@ -1,0 +1,1 @@
+export let URL_DOMAIN_NAME: string = 'www.phoenixblocker.com';
