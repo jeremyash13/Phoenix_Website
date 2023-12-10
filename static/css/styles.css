@@ -707,6 +707,10 @@ section {
 		max-width: 750px;
 		margin: 0 auto;
 	}
+
+	& .prose p {
+		margin-bottom: 2rem;
+	}
 }
 
 .blog-category-tags-wrapper {
