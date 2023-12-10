@@ -2,7 +2,7 @@
 title: "Beyond Pleasure: Harnessing Dopamine's Potential for Unlimited Motivation"
 image: /images/blog/mr-dopamine.png
 description: In a world characterized by numerous opportunities for immediate gratification, self-regulation emerges as a crucial factor for success and well-being. Those who can exercise control over their relationship with pleasures are poised for success in an ever-evolving society.
-date: '2023-12-09'
+date: '2023-12-09 20:00:00 MST'
 categories:
     - Dopamine
     - Motivation
