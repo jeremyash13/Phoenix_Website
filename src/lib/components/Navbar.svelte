@@ -1,5 +1,4 @@
 <script lang="ts">
-	import { isNavTransparent } from '../../stores';
 	let isMobileNavOpen = false;
 	function openMobileNavMenu() {
 		isMobileNavOpen = true;
@@ -10,7 +9,7 @@
 </script>
 
 <header>
-	<nav id="navbar" class={$isNavTransparent ? 'transparent-nav' : ''}>
+	<nav id="navbar" class="">
 		<a id="nav-logo" class="nav-item-primary" href="/">
 			<h6>Phoenix</h6>
 		</a>

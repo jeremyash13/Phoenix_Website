@@ -1,48 +1,14 @@
 <script>
-	import { isNavTransparent } from '../stores';
-
-	// let observer = new IntersectionObserver(
-	// 	(entries) => {
-	// 		entries.forEach((entry) => {
-	// 			const eventName = entry.isIntersecting ? 'enterViewport' : 'exitViewport';
-	// 			entry.target.dispatchEvent(new CustomEvent(eventName));
-	// 		});
-	// 	},
-	// 	{ threshold: 0.15 }
-	// );
-
-	// /**
-	//  * @param {Element} element
-	//  */
-	// function viewport(element) {
-	// 	observer.observe(element);
-	// 	return {
-	// 		destroy() {
-	// 			$isNavTransparent = false;
-	// 			observer.unobserve(element);
-	// 		}
-	// 	};
-	// }
-
-	// function enterViewportHandler() {
-	// 	$isNavTransparent = true;
-	// }
-	// function exitViewportHandler() {
-	// 	$isNavTransparent = false;
-	// }
 </script>
 
 <svelte:head>
-    <title>Phoenix | Your journey starts here</title>
+	<title>Phoenix | Your journey starts here</title>
 </svelte:head>
 
 <section
 	id="hero"
 	class="section-b"
 	>
-	<!-- use:viewport
-	on:enterViewport={enterViewportHandler}
-	on:exitViewport={exitViewportHandler} -->
 	<div id="hero-wrapper" class="section-wrapper flex-col">
 		<div id="hero-content">
 			<h2 class="section-heading">Your journey starts here.</h2>
