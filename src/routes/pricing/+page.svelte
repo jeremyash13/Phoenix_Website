@@ -17,7 +17,7 @@
 					I've struggled for years with procrastination, and my university work suffered because of
 					it. “Distraction free YouTube” mode is great because it allows me to use YouTube as an
 					education resource without getting distracted by the YouTube feed. Phoenix has been a
-					tremendous help in turning my life around. I Highly recommend for anyone looking to regain
+					tremendous help in improving my focus. I Highly recommend for anyone looking to regain
 					control of their time and habits.
 				</p>
 				<div class="avatar-wrapper flex-col">
