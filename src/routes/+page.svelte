@@ -15,7 +15,7 @@
 			<p>
 				Introducing <span class="phoenix-accent">Phoenix</span>, guardian of the world’s most
 				precious resource—attention. In a world filled with distractions like social media,
-				pornography, and video games, our app stands as a sentinel, protecting and nurturing your
+				pornography, and video games, Phoenix stands as a sentinel, protecting and nurturing your
 				attention.
 			</p>
 		</div>
