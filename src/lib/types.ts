@@ -1,4 +1,4 @@
-export type Categories = 'Dopamine' | 'Motivation' | 'Mental Health';
+export type Categories = 'Dopamine' | 'Motivation' | 'Mental Health' | 'Addiction';
 
 export type Post = {
 	title: string;
