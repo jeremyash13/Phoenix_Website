@@ -24,8 +24,9 @@
 
 @font-face {
 	font-family: 'Recoleta';
-	src: url('../fonts/Recoleta-Regular.woff') format('woff') url('../fonts/Recoleta-Light.woff')
-		format('woff') url('../fonts/Recoleta-Thin.woff') format('woff');
+	src: url('../fonts/Recoleta-Regular.woff') format('woff'),
+		url('../fonts/Recoleta-Light.woff') format('woff'),
+		url('../fonts/Recoleta-Thin.woff') format('woff');
 }
 
 @font-face {
@@ -738,7 +739,7 @@ section {
 }
 
 .hover-effect {
-    border: solid 3px transparent;
+	border: solid 3px transparent;
 	transition: background-color 0.2s ease-out, border-color 0.2s ease-out;
 
 	&:hover {
