@@ -11,7 +11,7 @@
 			<div class="flex-col">
 				<a href="/features">Features</a>
 				<a href="/pricing">Pricing</a>
-				<a href="/guide">User Guide</a>
+				<!-- <a href="/guide">User Guide</a> -->
 			</div>
 			<div class="flex-col">
 				<a href="/privacy">Privacy Policy</a>
