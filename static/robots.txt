@@ -1,0 +1,2 @@
+User-agent: * Disallow: 
+Sitemap: https://www.phoenixblocker.com/phoenix-sitemap.xml
