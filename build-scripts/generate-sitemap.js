@@ -27,7 +27,7 @@ fs.readdir(postsDir, (err, files) => {
 	else {
 		files.forEach((file) => {
 			const post = file.replace(/\.md$/, ''); // Remove .md file extension
-			const slug = 'https://www.phoenixblocker.com/posts/' + entityEscape(post);
+			const slug = 'https://www.phoenixblocker.com/blog/posts/' + entityEscape(post);
 			appendPath(slug);
 		});
 		const xml = urlset.end({ prettyPrint: true });
