@@ -5,6 +5,7 @@
 </script>
 
 <svelte:head>
+	<meta name="robots" content="noindex, nofollow" />
 	<title>Phoenix | Error</title>
 </svelte:head>
 

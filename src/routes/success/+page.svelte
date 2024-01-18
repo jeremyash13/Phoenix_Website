@@ -1,13 +1,14 @@
 <script lang="ts">
 	// import type { PageData } from './$types';
 
-	import Carousel from "$lib/components/Carousel.svelte";
+	import Carousel from '$lib/components/Carousel.svelte';
 
 	// export let data: PageData;
 </script>
 
 <svelte:head>
-    <title>Phoenix | Success!</title>
+	<meta name="robots" content="noindex, nofollow" />
+	<title>Phoenix | Success!</title>
 </svelte:head>
 
 <section id="" class="section-a">
