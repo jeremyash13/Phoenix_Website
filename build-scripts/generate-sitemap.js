@@ -18,6 +18,8 @@ appendPath('https://www.phoenixblocker.com/pricing');
 // appendPath("https://www.phoenixblocker.com/guide");
 appendPath('https://www.phoenixblocker.com/privacy');
 // appendPath("https://www.phoenixblocker.com/release-notes");
+appendPath('https://www.phoenixblocker.com/success');
+appendPath('https://www.phoenixblocker.com/cancel');
 appendPath('https://www.phoenixblocker.com/blog/1');
 
 // generated paths (blog posts)
