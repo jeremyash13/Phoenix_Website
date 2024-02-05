@@ -2,7 +2,7 @@
 </script>
 
 <svelte:head>
-	<title>Phoenix | Your journey starts here</title>
+	<title>Phoenix | Block Websites, Block Apps, Boost Productivity</title>
 </svelte:head>
 
 <section
