@@ -41,7 +41,7 @@
 
 <section class="section-b">
 	<div class="section-wrapper flex-col">
-		<h2 class="section-heading">Why Phoenix?</h2>
+		<h2 class="section-heading">Why Are People Using Phoenix?</h2>
 		<div class="flex-col">
 			<div class="why-reason">
 				<div class="why-reason-content">
