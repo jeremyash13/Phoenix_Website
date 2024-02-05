@@ -15,7 +15,7 @@
 			</div>
 			<div class="flex-col">
 				<a href="/privacy">Privacy Policy</a>
-				<a href="/release-notes">Release Notes</a>
+				<!-- <a href="/release-notes">Release Notes</a> -->
 			</div>
 			<div class="flex-col">
 				<a href="/blog/1">Blog</a>
