@@ -338,6 +338,7 @@ a.call-to-action h5 {
 	& p {
 		text-align: center;
 		font-size: 1.5rem;
+		line-height: 3rem;
 	}
 }
 
