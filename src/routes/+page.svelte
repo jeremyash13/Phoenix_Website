@@ -2,7 +2,7 @@
 </script>
 
 <svelte:head>
-	<title>Phoenix | Block Websites, Block Apps, Boost Productivity</title>
+	<title>Phoenix | #1 Productivity App | Website and App Blocker</title>
 </svelte:head>
 
 <section
