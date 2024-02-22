@@ -66,7 +66,7 @@ function appendPath(slug) {
 	const url = urlset.ele('url');
 
 	const loc = url.ele('loc').txt(slug);
-	const changefreq = url.ele('changefreq').txt('daily');
+	const changefreq = url.ele('changefreq').txt('weekly');
 	const lastmod = url.ele('lastmod').txt(formattedDate);
 
 	function getMonth() {
