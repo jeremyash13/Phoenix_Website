@@ -83,6 +83,7 @@
 					</a>
 					<span class="accent">*Supports Windows 10/11</span>
 					<span class="accent">*MacOS support coming soon</span>
+					<span class="accent-red">*Not compatible with Windows S Mode</span>
 				</div>
 			</div>
 		</div>

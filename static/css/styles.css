@@ -8,6 +8,7 @@
 	--main-color-3: #1f1c21;
 	--main-color-4: #2c272e;
 	--accent-color: #d9b887;
+	--accent-red: #ff6060;
 	--accent-color-cta: #d2a664;
 	--accent-color-cta-hero: #c8974d;
 	--main-text-color: #a3b0b7;
@@ -179,6 +180,10 @@ a.call-to-action h5 {
 
 .accent {
 	color: var(--accent-color);
+}
+
+.accent-red {
+	color: var(--accent-red);
 }
 
 .link-underlined {

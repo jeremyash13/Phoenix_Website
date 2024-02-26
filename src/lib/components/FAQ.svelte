@@ -41,5 +41,11 @@
                 >
             </p>
         </div>
+        <div class="faq-item">
+            <h5 class="faq-item-header">Can I use Phoenix Blocker if I'm using S Mode in Windows 10/11?</h5>
+            <p>
+                Due to S Mode being highly restrictive and denying access to the Windows Registry, Phoenix Blocker will not work with Windows installations running S Mode. If you wish to use Phoenix Blocker you must disable S Mode.
+            </p>
+        </div>
     </div>
 </div>
